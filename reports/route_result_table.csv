@@ -1,0 +1,5 @@
+Driver,Route Nodes,Route,Parcels Delivered,Distance (m),Capacity,Capacity Utilization
+Driver 1,"[0, 7, 3, 4, 1, 0]",Depot → D7 → D3 → D4 → D1 → Depot,15,1552,15,1.0
+Driver 2,"[0, 14, 16, 10, 9, 0]",Depot → D14 → D16 → D10 → D9 → Depot,15,1552,15,1.0
+Driver 3,"[0, 12, 11, 15, 13, 0]",Depot → D12 → D11 → D15 → D13 → Depot,15,1552,15,1.0
+Driver 4,"[0, 8, 2, 6, 5, 0]",Depot → D8 → D2 → D6 → D5 → Depot,15,1552,15,1.0
